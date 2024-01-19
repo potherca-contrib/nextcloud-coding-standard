@@ -1,7 +1,7 @@
 {
     "name": "nextcloud/coding-standard",
     "description": "Nextcloud coding standards for the php cs fixer",
-    "type": "library",
+    "type": "phpcodesniffer-standard",
     "require": {
         "php": "^7.3|^8.0",
         "php-cs-fixer/shim": "^3.17"
